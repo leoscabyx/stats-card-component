@@ -1,0 +1,19 @@
+:root {
+    --color-primary-1: hsl(233, 47%, 7%);
+    --color-primary-2: hsl(244, 38%, 16%);
+    --color-primary-2: hsl(277, 64%, 61%);
+    --color-neutral-1: hsl(0, 0%, 100%);
+    --color-neutral-2: hsla(0, 0%, 100%, 0.75);
+    --color-neutral-3: hsla(0, 0%, 100%, 0.6);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+}
